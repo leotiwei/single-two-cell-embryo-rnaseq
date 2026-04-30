@@ -56,7 +56,7 @@ viridis
 
 ## Data availability
 
-Raw sequencing data and processed expression matrices are deposited in GEO under accession number `GSEXXXXXX`.
+Raw sequencing data and processed expression matrices are deposited in GEO .
 
 ## Code availability
 
